@@ -16,10 +16,6 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
 
 ````
 Resposta: Ver codigo na pasta Q2
-Output:
-Menor faturamento: {dia='14', valor=373.7838}
-Maior faturamento: {dia='16', valor=48924.2448}
-Dias acima da média: 10
  ````
 ### 3) Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
 • O menor valor de faturamento ocorrido em um dia do mês;
@@ -32,6 +28,7 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 
 ````
 Resposta: Ver codigo na pasta Q3
+Output:
 Menor faturamento: {dia='14', valor=373.7838}
 Maior faturamento: {dia='16', valor=48924.2448}
 Dias acima da média: 10
@@ -44,7 +41,16 @@ Dias acima da média: 10
 • Outros – R$19.849,53
 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.  
-
+````
+Resposta: Ver codigo na pasta Q4
+Output:
+Valor total mensal: 180759.98
+Valor percentual de SP: 37.52%
+Valor percentual de RJ: 20.29%
+Valor percentual de MG: 16.17%
+Valor percentual de ES: 15.02%
+Valor percentual de outros estados: 10.98%
+ ````
 ### 5) Escreva um programa que inverta os caracteres de um string.
 
 >> IMPORTANTE:
