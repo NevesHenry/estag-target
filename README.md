@@ -16,6 +16,10 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
 
 ````
 Resposta: Ver codigo na pasta Q2
+Output:
+Menor faturamento: {dia='14', valor=373.7838}
+Maior faturamento: {dia='16', valor=48924.2448}
+Dias acima da média: 10
  ````
 ### 3) Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
 • O menor valor de faturamento ocorrido em um dia do mês;
@@ -26,6 +30,12 @@ IMPORTANTE:
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
+````
+Resposta: Ver codigo na pasta Q3
+Menor faturamento: {dia='14', valor=373.7838}
+Maior faturamento: {dia='16', valor=48924.2448}
+Dias acima da média: 10
+ ````
 ### 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 • SP – R$67.836,43
 • RJ – R$36.678,66
