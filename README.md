@@ -8,7 +8,7 @@ Imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
 ````
 Resposta: 91 (Ver codigo na pasta Q1)
- ````
+````
 
 ### 2) Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 
@@ -16,7 +16,7 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
 
 ````
 Resposta: Ver codigo na pasta Q2
- ````
+````
 ### 3) Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
 • O menor valor de faturamento ocorrido em um dia do mês;
 • O maior valor de faturamento ocorrido em um dia do mês;
@@ -50,9 +50,15 @@ Valor percentual de RJ: 20.29%
 Valor percentual de MG: 16.17%
 Valor percentual de ES: 15.02%
 Valor percentual de outros estados: 10.98%
- ````
+````
 ### 5) Escreva um programa que inverta os caracteres de um string.
 
 >> IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 b) Evite usar funções prontas, como, por exemplo, reverse;
+````
+Resposta: Ver codigo na pasta Q5
+Output:
+Enter a string: Esse é só um teste
+Reversed string: etset mu ós é essE
+````
